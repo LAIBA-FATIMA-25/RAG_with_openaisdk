@@ -1,0 +1,11 @@
+chainlit
+python-dotenv
+openai
+langfuse
+openai-agents
+qdrant-client
+playwright
+beautifulsoup4
+Pillow
+requests
+nest-asyncio
